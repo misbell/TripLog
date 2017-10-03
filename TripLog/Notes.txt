@@ -1,0 +1,14 @@
+﻿
+
+git init
+
+git add .
+
+git commit -m 'some message'
+
+git remote add origin https://github.com/misbell/TripLog.git
+
+git remote -v // to verify
+
+git push -u origin master
+
